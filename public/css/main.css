@@ -1,0 +1,58 @@
+@font-face {
+	font-family: 'Material Icons';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../font/MaterialIcons-Regular.eot'); /* For IE6-8 */
+	src: local('Material Icons'),
+		local('MaterialIcons-Regular'),
+		url('../font/MaterialIcons-Regular.woff2') format('woff2'),
+		url('../font/MaterialIcons-Regular.woff') format('woff'),
+		url('../font/MaterialIcons-Regular.ttf') format('truetype');
+}
+
+.material-icons {
+	font-family: 'Material Icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24px;
+	display: inline-block;
+	line-height: 1;
+	text-transform: none;
+	letter-spacing: normal;
+	vertical-align: middle;
+	word-wrap: normal;
+	white-space: nowrap;
+	direction: ltr;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	-moz-osx-font-smoothing: grayscale;
+	font-feature-settings: 'liga';
+}
+
+html {
+	font-family: 'Open Sans', Verdana, Geneva, sans-serif;
+}
+
+main {
+	margin: 15px 0;
+}
+
+h3.card-title {
+	margin-top: 0;
+}
+
+h3.card-title + .divider {
+	margin-bottom: 15px;
+}
+
+#sidenav-overlay {
+	z-index: 990;
+}
+
+.side-nav > li {
+	position: relative;
+}
+
+.side-nav .dropdown-content {
+	width: 100% !important;
+}

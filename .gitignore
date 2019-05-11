@@ -1,0 +1,9 @@
+/composer.lock
+/config/config.php
+/config/plugins.php
+/docker-compose.override.yml
+/vaachar-website.env
+/docker/mariadb/data/*
+/plugin/*
+!/plugin/.gitkeep
+/vendor/*
