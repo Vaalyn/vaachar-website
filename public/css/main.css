@@ -224,6 +224,28 @@ textarea.materialize-textarea + label {
 	width: 100%;
 }
 
+.dtg-druck-referenzen {
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);
+	grid-auto-rows: 1fr;
+	grid-column-gap: 20px;
+}
+
+@media only screen and (min-width: 601px) {
+	.dtg-druck-referenzen {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media only screen and (min-width: 993px) {
+	.dtg-druck-referenzen {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+.dtg-druck-referenzen .card {
+}
+
 .drei-d-druck-referenzen img {
 	border-radius: 2px 2px 0 0;
 	display: block;

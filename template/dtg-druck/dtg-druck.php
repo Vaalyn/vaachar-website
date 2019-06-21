@@ -98,261 +98,249 @@
 				</div>
 			</div>
 
-			<div class="row">
-				<div class="col s12 m6 l4">
-					<div class="card grey darken-3">
-						<div class="card-image">
-							<img src="image/dtg/referenzen/1/preview.png" alt="" />
-						</div>
+			<div class="dtg-druck-referenzen">
+				<div class="card grey darken-3">
+					<div class="card-image">
+						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+					</div>
 
-						<div class="row">
-							<div class="col s12">
-								<table>
-									<tbody>
-										<tr>
-											<th class="right">Kunde:</th>
-											<td>Stadt. Holzkamp-Gesamtschule Witten</td>
-										</tr>
-										<tr>
-											<th class="right">Marke:</th>
-											<td>Fruit of the Loom</td>
-										</tr>
-										<tr>
-											<th class="right">Farbtinte:</th>
-											<td>
-												0,38&nbsp;mL (Vorne)<br/>
-												0,73&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Weiße Tinte:</th>
-											<td>
-												2,41&nbsp;mL (Vorne)<br/>
-												3,97&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Preis:</th>
-											<td>16,10&nbsp;€</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
+					<div class="row">
+						<div class="col s12">
+							<table>
+								<tbody>
+									<tr>
+										<th class="right">Kunde:</th>
+										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+									</tr>
+									<tr>
+										<th class="right">Marke:</th>
+										<td>Fruit of the Loom</td>
+									</tr>
+									<tr>
+										<th class="right">Farbtinte:</th>
+										<td>
+											0,38&nbsp;mL (Vorne)<br/>
+											0,73&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Weiße Tinte:</th>
+										<td>
+											2,41&nbsp;mL (Vorne)<br/>
+											3,97&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Preis:</th>
+										<td>16,10&nbsp;€</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
 				</div>
 
-				<div class="col s12 m6 l4">
-					<div class="card grey darken-3">
-						<div class="card-image">
-							<img src="image/dtg/referenzen/1/preview.png" alt="" />
-						</div>
+				<div class="card grey darken-3">
+					<div class="card-image">
+						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+					</div>
 
-						<div class="row">
-							<div class="col s12">
-								<table>
-									<tbody>
-										<tr>
-											<th class="right">Kunde:</th>
-											<td>Stadt. Holzkamp-Gesamtschule Witten</td>
-										</tr>
-										<tr>
-											<th class="right">Marke:</th>
-											<td>Fruit of the Loom</td>
-										</tr>
-										<tr>
-											<th class="right">Farbtinte:</th>
-											<td>
-												0,38&nbsp;mL (Vorne)<br/>
-												0,73&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Weiße Tinte:</th>
-											<td>
-												2,41&nbsp;mL (Vorne)<br/>
-												3,97&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Preis:</th>
-											<td>16,10&nbsp;€</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
+					<div class="row">
+						<div class="col s12">
+							<table>
+								<tbody>
+									<tr>
+										<th class="right">Kunde:</th>
+										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+									</tr>
+									<tr>
+										<th class="right">Marke:</th>
+										<td>Fruit of the Loom</td>
+									</tr>
+									<tr>
+										<th class="right">Farbtinte:</th>
+										<td>
+											0,38&nbsp;mL (Vorne)<br/>
+											0,73&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Weiße Tinte:</th>
+										<td>
+											2,41&nbsp;mL (Vorne)<br/>
+											3,97&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Preis:</th>
+										<td>16,10&nbsp;€</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
 				</div>
 
-				<div class="col s12 m6 l4">
-					<div class="card grey darken-3">
-						<div class="card-image">
-							<img src="image/dtg/referenzen/1/preview.png" alt="" />
-						</div>
+				<div class="card grey darken-3">
+					<div class="card-image">
+						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+					</div>
 
-						<div class="row">
-							<div class="col s12">
-								<table>
-									<tbody>
-										<tr>
-											<th class="right">Kunde:</th>
-											<td>Stadt. Holzkamp-Gesamtschule Witten</td>
-										</tr>
-										<tr>
-											<th class="right">Marke:</th>
-											<td>Fruit of the Loom</td>
-										</tr>
-										<tr>
-											<th class="right">Farbtinte:</th>
-											<td>
-												0,38&nbsp;mL (Vorne)<br/>
-												0,73&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Weiße Tinte:</th>
-											<td>
-												2,41&nbsp;mL (Vorne)<br/>
-												3,97&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Preis:</th>
-											<td>16,10&nbsp;€</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
+					<div class="row">
+						<div class="col s12">
+							<table>
+								<tbody>
+									<tr>
+										<th class="right">Kunde:</th>
+										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+									</tr>
+									<tr>
+										<th class="right">Marke:</th>
+										<td>Fruit of the Loom</td>
+									</tr>
+									<tr>
+										<th class="right">Farbtinte:</th>
+										<td>
+											0,38&nbsp;mL (Vorne)<br/>
+											0,73&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Weiße Tinte:</th>
+										<td>
+											2,41&nbsp;mL (Vorne)<br/>
+											3,97&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Preis:</th>
+										<td>16,10&nbsp;€</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
 				</div>
 
-				<div class="col s12 m6 l4">
-					<div class="card grey darken-3">
-						<div class="card-image">
-							<img src="image/dtg/referenzen/1/preview.png" alt="" />
-						</div>
+				<div class="card grey darken-3">
+					<div class="card-image">
+						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+					</div>
 
-						<div class="row">
-							<div class="col s12">
-								<table>
-									<tbody>
-										<tr>
-											<th class="right">Kunde:</th>
-											<td>Stadt. Holzkamp-Gesamtschule Witten</td>
-										</tr>
-										<tr>
-											<th class="right">Marke:</th>
-											<td>Fruit of the Loom</td>
-										</tr>
-										<tr>
-											<th class="right">Farbtinte:</th>
-											<td>
-												0,38&nbsp;mL (Vorne)<br/>
-												0,73&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Weiße Tinte:</th>
-											<td>
-												2,41&nbsp;mL (Vorne)<br/>
-												3,97&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Preis:</th>
-											<td>16,10&nbsp;€</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
+					<div class="row">
+						<div class="col s12">
+							<table>
+								<tbody>
+									<tr>
+										<th class="right">Kunde:</th>
+										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+									</tr>
+									<tr>
+										<th class="right">Marke:</th>
+										<td>Fruit of the Loom</td>
+									</tr>
+									<tr>
+										<th class="right">Farbtinte:</th>
+										<td>
+											0,38&nbsp;mL (Vorne)<br/>
+											0,73&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Weiße Tinte:</th>
+										<td>
+											2,41&nbsp;mL (Vorne)<br/>
+											3,97&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Preis:</th>
+										<td>16,10&nbsp;€</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
 				</div>
 
-				<div class="col s12 m6 l4">
-					<div class="card grey darken-3">
-						<div class="card-image">
-							<img src="image/dtg/referenzen/1/preview.png" alt="" />
-						</div>
+				<div class="card grey darken-3">
+					<div class="card-image">
+						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+					</div>
 
-						<div class="row">
-							<div class="col s12">
-								<table>
-									<tbody>
-										<tr>
-											<th class="right">Kunde:</th>
-											<td>Stadt. Holzkamp-Gesamtschule Witten</td>
-										</tr>
-										<tr>
-											<th class="right">Marke:</th>
-											<td>Fruit of the Loom</td>
-										</tr>
-										<tr>
-											<th class="right">Farbtinte:</th>
-											<td>
-												0,38&nbsp;mL (Vorne)<br/>
-												0,73&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Weiße Tinte:</th>
-											<td>
-												2,41&nbsp;mL (Vorne)<br/>
-												3,97&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Preis:</th>
-											<td>16,10&nbsp;€</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
+					<div class="row">
+						<div class="col s12">
+							<table>
+								<tbody>
+									<tr>
+										<th class="right">Kunde:</th>
+										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+									</tr>
+									<tr>
+										<th class="right">Marke:</th>
+										<td>Fruit of the Loom</td>
+									</tr>
+									<tr>
+										<th class="right">Farbtinte:</th>
+										<td>
+											0,38&nbsp;mL (Vorne)<br/>
+											0,73&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Weiße Tinte:</th>
+										<td>
+											2,41&nbsp;mL (Vorne)<br/>
+											3,97&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Preis:</th>
+										<td>16,10&nbsp;€</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
 				</div>
 
-				<div class="col s12 m6 l4">
-					<div class="card grey darken-3">
-						<div class="card-image">
-							<img src="image/dtg/referenzen/1/preview.png" alt="" />
-						</div>
+				<div class="card grey darken-3">
+					<div class="card-image">
+						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+					</div>
 
-						<div class="row">
-							<div class="col s12">
-								<table>
-									<tbody>
-										<tr>
-											<th class="right">Kunde:</th>
-											<td>Stadt. Holzkamp-Gesamtschule Witten</td>
-										</tr>
-										<tr>
-											<th class="right">Marke:</th>
-											<td>Fruit of the Loom</td>
-										</tr>
-										<tr>
-											<th class="right">Farbtinte:</th>
-											<td>
-												0,38&nbsp;mL (Vorne)<br/>
-												0,73&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Weiße Tinte:</th>
-											<td>
-												2,41&nbsp;mL (Vorne)<br/>
-												3,97&nbsp;mL (Hinten)
-											</td>
-										</tr>
-										<tr>
-											<th class="right">Preis:</th>
-											<td>16,10&nbsp;€</td>
-										</tr>
-									</tbody>
-								</table>
-							</div>
+					<div class="row">
+						<div class="col s12">
+							<table>
+								<tbody>
+									<tr>
+										<th class="right">Kunde:</th>
+										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+									</tr>
+									<tr>
+										<th class="right">Marke:</th>
+										<td>Fruit of the Loom</td>
+									</tr>
+									<tr>
+										<th class="right">Farbtinte:</th>
+										<td>
+											0,38&nbsp;mL (Vorne)<br/>
+											0,73&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Weiße Tinte:</th>
+										<td>
+											2,41&nbsp;mL (Vorne)<br/>
+											3,97&nbsp;mL (Hinten)
+										</td>
+									</tr>
+									<tr>
+										<th class="right">Preis:</th>
+										<td>16,10&nbsp;€</td>
+									</tr>
+								</tbody>
+							</table>
 						</div>
 					</div>
 				</div>
