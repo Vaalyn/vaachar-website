@@ -1,19 +1,68 @@
 .color-1 {
-	background-color: #48bed9;
+	background-color: #373b61;
 }
 
 .btn.color-1:hover,
 .btn.color-1:focus,
+.btn-large.color-1:hover,
+.btn-large.color-1:focus,
 .btn-floating.color-1:hover,
 .btn-floating.color-1:focus {
-	background-color: #29a6c2;
+	background-color: #373b61;
 }
 
 .color-2 {
-	background-color: #5fcd55;
+	background-color: #bf4245;
 }
 
 .btn.color-2:hover,
-.btn.color-2:focus {
-	background-color: #43b536;
+.btn.color-2:focus,
+.btn-large.color-2:hover,
+.btn-large.color-2:focus,
+.btn-floating.color-2:hover,
+.btn-floating.color-2:focus {
+	background-color: #bf4245;
+}
+
+.color-3 {
+	background-color: #161826;
+}
+
+.btn.color-3:hover,
+.btn.color-3:focus,
+.btn-large.color-3:hover,
+.btn-large.color-3:focus,
+.btn-floating.color-3:hover,
+.btn-floating.color-3:focus {
+	background-color: #161826;
+}
+
+.card .card-image .card-title {
+    background: rgba(30,30,30, 0.5);
+	text-shadow:
+		-1px -1px 3px #3d3d3d,
+	    1px 1px #3d3d3d,
+	    2px 2px #3d3d3d,
+	    3px 3px #3d3d3d;
+}
+
+input:not([type]),
+input[type=text]:not(.browser-default),
+input[type=password]:not(.browser-default),
+input[type=email]:not(.browser-default),
+input[type=url]:not(.browser-default),
+input[type=time]:not(.browser-default),
+input[type=date]:not(.browser-default),
+input[type=datetime]:not(.browser-default),
+input[type=datetime-local]:not(.browser-default),
+input[type=tel]:not(.browser-default),
+input[type=number]:not(.browser-default),
+input[type=search]:not(.browser-default),
+textarea.materialize-textarea {
+	background-color: #fff;
+	color: #2d2d2d;
+}
+
+.textil-hersteller {
+	background-color: #e6e6e6;
 }

@@ -62,7 +62,8 @@ class LoginController {
 		return $this->renderer->render($response, '/login/login.php', [
 			'authentication' => $this->authentication,
 			'flashMessages' => $this->flashMessages->getMessages(),
-			'request' => $request
+			'request' => $request,
+			'router' => $this->router
 		]);
 	}
 
