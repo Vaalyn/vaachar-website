@@ -77,7 +77,7 @@
 
 				<div class="row">
 					<div class="col s12 flow-text">
-						Für 1&nbsp;mL Farbtinte zahlen wir 0,53&nbsp;€ und für 1&nbsp;mL Weiße Tinte 0,39&nbsp;€. Dazu kommen die kosten für die Vorhbehandlungsflüssigkeit, welche benötigt wird damit die Tinten ordentlich auf den Textilien haften und lange leben. Von dieser benötigen wir für ein vollflächig bedrucktes T-Shirt 50&nbsp;mL, was einem Preis von 1,00&nbsp;€ entspricht. Unsere Mitarbeiter erhalten einen fairen Lohn von 18,50&nbsp;€ pro Stunde und ein Mitarbeiter benötigt durchschnittlich 15 Minuten pro T-Shirt, dadurch ergibt sich ein Lohnanteil von 4,65&nbsp;€ pro T-Shirt. Auf die Gesamtsumme all dieser Kosten rechnen wir noch einen Aufpreis von 30% für Wartung sowie Verschleiß unserer Maschinen und den Profit den wir machen möchten, damit wir unser Angebot stetig verbessern und erweitern können.
+						Für 1&nbsp;mL Farbtinte zahlen wir 0,53&nbsp;€ und für 1&nbsp;mL Weiße Tinte 0,39&nbsp;€. Dazu kommen die kosten für die Vorbehandlungsflüssigkeit, welche benötigt wird damit die Tinten ordentlich auf den Textilien haften und lange leben. Von dieser benötigen wir für ein vollflächig bedrucktes T-Shirt 50&nbsp;mL, was einem Preis von 1,00&nbsp;€ entspricht. Unsere Mitarbeiter erhalten einen fairen Lohn von 18,50&nbsp;€ pro Stunde und ein Mitarbeiter benötigt durchschnittlich 15 Minuten pro T-Shirt, dadurch ergibt sich ein Lohnanteil von 4,65&nbsp;€ pro T-Shirt. Auf die Gesamtsumme all dieser Kosten rechnen wir noch einen Aufpreis von 30% für Wartung sowie Verschleiß unserer Maschinen und den Profit den wir machen möchten, damit wir unser Angebot stetig verbessern und erweitern können.
 					</div>
 				</div>
 
@@ -101,7 +101,7 @@
 			<div class="dtg-druck-referenzen">
 				<div class="card grey darken-3">
 					<div class="card-image">
-						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+						<img src="image/dtg/referenzen/1/preview.png" alt="T-Shirt Vorschau - Blue Five" class="materialboxed" />
 					</div>
 
 					<div class="row">
@@ -117,6 +117,10 @@
 										<td>Fruit of the Loom</td>
 									</tr>
 									<tr>
+										<th class="right">Farbe:</th>
+										<td>Blau</td>
+									</tr>
+									<tr>
 										<th class="right">Farbtinte:</th>
 										<td>
 											0,38&nbsp;mL (Vorne)<br/>
@@ -124,7 +128,7 @@
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße Tinte:</th>
+										<th class="right">Weiße&nbsp;Tinte:</th>
 										<td>
 											2,41&nbsp;mL (Vorne)<br/>
 											3,97&nbsp;mL (Hinten)
@@ -142,7 +146,7 @@
 
 				<div class="card grey darken-3">
 					<div class="card-image">
-						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+						<img src="image/dtg/referenzen/2/preview.png" alt="T-Shirt Vorschau - Everfree Encore 2018 - Aggretsaurora" class="materialboxed" />
 					</div>
 
 					<div class="row">
@@ -151,29 +155,31 @@
 								<tbody>
 									<tr>
 										<th class="right">Kunde:</th>
-										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+										<td>Pony Events Federation e.V.</td>
 									</tr>
 									<tr>
 										<th class="right">Marke:</th>
-										<td>Fruit of the Loom</td>
+										<td>B&C Collection</td>
+									</tr>
+									<tr>
+										<th class="right">Farbe:</th>
+										<td>Schwarz</td>
 									</tr>
 									<tr>
 										<th class="right">Farbtinte:</th>
 										<td>
-											0,38&nbsp;mL (Vorne)<br/>
-											0,73&nbsp;mL (Hinten)
+											0,00&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße Tinte:</th>
+										<th class="right">Weiße&nbsp;Tinte:</th>
 										<td>
-											2,41&nbsp;mL (Vorne)<br/>
-											3,97&nbsp;mL (Hinten)
+											0,00&nbsp;mL
 										</td>
 									</tr>
 									<tr>
 										<th class="right">Preis:</th>
-										<td>16,10&nbsp;€</td>
+										<td>11,00&nbsp;€</td>
 									</tr>
 								</tbody>
 							</table>
@@ -183,7 +189,7 @@
 
 				<div class="card grey darken-3">
 					<div class="card-image">
-						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+						<img src="image/dtg/referenzen/3/preview.png" alt="T-Shirt Vorschau - Everfree Encore 2018 - Sponsor Shirt" class="materialboxed" />
 					</div>
 
 					<div class="row">
@@ -192,29 +198,31 @@
 								<tbody>
 									<tr>
 										<th class="right">Kunde:</th>
-										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+										<td>Pony Events Federation e.V.</td>
 									</tr>
 									<tr>
 										<th class="right">Marke:</th>
-										<td>Fruit of the Loom</td>
+										<td>B&C Collection</td>
+									</tr>
+									<tr>
+										<th class="right">Farbe:</th>
+										<td>Schwarz</td>
 									</tr>
 									<tr>
 										<th class="right">Farbtinte:</th>
 										<td>
-											0,38&nbsp;mL (Vorne)<br/>
-											0,73&nbsp;mL (Hinten)
+											0,00&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße Tinte:</th>
+										<th class="right">Weiße&nbsp;Tinte:</th>
 										<td>
-											2,41&nbsp;mL (Vorne)<br/>
-											3,97&nbsp;mL (Hinten)
+											0,00&nbsp;mL
 										</td>
 									</tr>
 									<tr>
 										<th class="right">Preis:</th>
-										<td>16,10&nbsp;€</td>
+										<td>11,00&nbsp;€</td>
 									</tr>
 								</tbody>
 							</table>
@@ -224,7 +232,7 @@
 
 				<div class="card grey darken-3">
 					<div class="card-image">
-						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+						<img src="image/dtg/referenzen/4/preview.png" alt="T-Shirt Vorschau - H.I.V.E. - Helfer Shirt" class="materialboxed" />
 					</div>
 
 					<div class="row">
@@ -233,29 +241,31 @@
 								<tbody>
 									<tr>
 										<th class="right">Kunde:</th>
-										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+										<td>Bronies Berlin / Brandenburg e.V.</td>
 									</tr>
 									<tr>
 										<th class="right">Marke:</th>
-										<td>Fruit of the Loom</td>
+										<td>Gildan</td>
+									</tr>
+									<tr>
+										<th class="right">Farbe:</th>
+										<td>Grün</td>
 									</tr>
 									<tr>
 										<th class="right">Farbtinte:</th>
 										<td>
-											0,38&nbsp;mL (Vorne)<br/>
-											0,73&nbsp;mL (Hinten)
+											0,41&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße Tinte:</th>
+										<th class="right">Weiße&nbsp;Tinte:</th>
 										<td>
-											2,41&nbsp;mL (Vorne)<br/>
-											3,97&nbsp;mL (Hinten)
+											3,06&nbsp;mL
 										</td>
 									</tr>
 									<tr>
 										<th class="right">Preis:</th>
-										<td>16,10&nbsp;€</td>
+										<td>13,17&nbsp;€</td>
 									</tr>
 								</tbody>
 							</table>
@@ -265,7 +275,7 @@
 
 				<div class="card grey darken-3">
 					<div class="card-image">
-						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+						<img src="image/dtg/referenzen/5/preview.png" alt="T-Shirt Vorschau - H.I.V.E. - Event Shirt" class="materialboxed" />
 					</div>
 
 					<div class="row">
@@ -274,29 +284,31 @@
 								<tbody>
 									<tr>
 										<th class="right">Kunde:</th>
-										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+										<td>Bronies Berlin / Brandenburg e.V.</td>
 									</tr>
 									<tr>
 										<th class="right">Marke:</th>
-										<td>Fruit of the Loom</td>
+										<td>Gildan</td>
+									</tr>
+									<tr>
+										<th class="right">Farbe:</th>
+										<td>Schwarz</td>
 									</tr>
 									<tr>
 										<th class="right">Farbtinte:</th>
 										<td>
-											0,38&nbsp;mL (Vorne)<br/>
-											0,73&nbsp;mL (Hinten)
+											0,74&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße Tinte:</th>
+										<th class="right">Weiße&nbsp;Tinte:</th>
 										<td>
-											2,41&nbsp;mL (Vorne)<br/>
-											3,97&nbsp;mL (Hinten)
+											2,73&nbsp;mL
 										</td>
 									</tr>
 									<tr>
 										<th class="right">Preis:</th>
-										<td>16,10&nbsp;€</td>
+										<td>13,21&nbsp;€</td>
 									</tr>
 								</tbody>
 							</table>
@@ -306,7 +318,7 @@
 
 				<div class="card grey darken-3">
 					<div class="card-image">
-						<img src="image/dtg/referenzen/1/preview.png" alt="" />
+						<img src="image/dtg/referenzen/6/preview.png" alt="T-Shirt Vorschau - Sunset Shimmers Summer Sun Siesta" class="materialboxed" />
 					</div>
 
 					<div class="row">
@@ -315,29 +327,25 @@
 								<tbody>
 									<tr>
 										<th class="right">Kunde:</th>
-										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
+										<td>Bronies Bayern e.V.</td>
 									</tr>
 									<tr>
 										<th class="right">Marke:</th>
 										<td>Fruit of the Loom</td>
 									</tr>
 									<tr>
-										<th class="right">Farbtinte:</th>
-										<td>
-											0,38&nbsp;mL (Vorne)<br/>
-											0,73&nbsp;mL (Hinten)
-										</td>
+										<th class="right">Farbe:</th>
+										<td>Weiß</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße Tinte:</th>
+										<th class="right">Farbtinte:</th>
 										<td>
-											2,41&nbsp;mL (Vorne)<br/>
-											3,97&nbsp;mL (Hinten)
+											0,51&nbsp;mL
 										</td>
 									</tr>
 									<tr>
 										<th class="right">Preis:</th>
-										<td>16,10&nbsp;€</td>
+										<td>11,82&nbsp;€</td>
 									</tr>
 								</tbody>
 							</table>
