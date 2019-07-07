@@ -47,27 +47,27 @@
 									<table>
 										<tbody>
 											<tr>
-												<th class="right">Höhe:</th>
+												<th>Höhe:</th>
 												<td>1,60 Meter</td>
 											</tr>
 											<tr>
-												<th class="right">Einzelteile:</th>
+												<th>Einzelteile:</th>
 												<td>501</td>
 											</tr>
 											<tr>
-												<th class="right">Material:</th>
+												<th>Material:</th>
 												<td>ABS Plastik</td>
 											</tr>
 											<tr>
-												<th class="right">Bemalung:</th>
+												<th>Bemalung:</th>
 												<td>Sprühlack & Acrylfarbe</td>
 											</tr>
 											<tr>
-												<th class="right">Projektdauer:</th>
+												<th>Projektdauer:</th>
 												<td>2 Monate</td>
 											</tr>
 											<tr>
-												<th class="right">Besonderheit:</th>
+												<th>Besonderheit:</th>
 												<td>Auseinandernehmbar in 6 Teile</td>
 											</tr>
 										</tbody>
@@ -91,19 +91,19 @@
 									<table>
 										<tbody>
 											<tr>
-												<th class="right">Einzelteile:</th>
+												<th>Einzelteile:</th>
 												<td>17</td>
 											</tr>
 											<tr>
-												<th class="right">Material:</th>
+												<th>Material:</th>
 												<td>ABS Plastik</td>
 											</tr>
 											<tr>
-												<th class="right">Bemalung:</th>
+												<th>Bemalung:</th>
 												<td>Sprühlack & Acrylfarbe</td>
 											</tr>
 											<tr>
-												<th class="right">Projektdauer:</th>
+												<th>Projektdauer:</th>
 												<td>7 Tage</td>
 											</tr>
 										</tbody>
@@ -127,19 +127,19 @@
 									<table>
 										<tbody>
 											<tr>
-												<th class="right">Einzelteile:</th>
+												<th>Einzelteile:</th>
 												<td>2</td>
 											</tr>
 											<tr>
-												<th class="right">Material:</th>
+												<th>Material:</th>
 												<td>ABS Plastik</td>
 											</tr>
 											<tr>
-												<th class="right">Bemalung:</th>
+												<th>Bemalung:</th>
 												<td>Sprühlack & Acrylfarbe</td>
 											</tr>
 											<tr>
-												<th class="right">Projektdauer:</th>
+												<th>Projektdauer:</th>
 												<td>5 Tage</td>
 											</tr>
 										</tbody>
@@ -159,24 +159,24 @@
 								<div class="card-content">
 									<h5 class="mt-0 center">Keksstecher mit Stempel</h5>
 									<div class="divider"></div>
-								</div>
 
-								<table>
-									<tbody>
-										<tr>
-											<th class="right">Einzelteile:</th>
-											<td>3</td>
-										</tr>
-										<tr>
-											<th class="right">Material:</th>
-											<td>ABS Plastik</td>
-										</tr>
-										<tr>
-											<th class="right">Projektdauer:</th>
-											<td>4 Tage</td>
-										</tr>
-									</tbody>
-								</table>
+									<table>
+										<tbody>
+											<tr>
+												<th>Einzelteile:</th>
+												<td>3</td>
+											</tr>
+											<tr>
+												<th>Material:</th>
+												<td>ABS Plastik</td>
+											</tr>
+											<tr>
+												<th>Projektdauer:</th>
+												<td>4 Tage</td>
+											</tr>
+										</tbody>
+									</table>
+								</div>
 							</div>
 						</div>
 					</div>

@@ -1,11 +1,11 @@
 <?php include_once(__DIR__ . '/../header.php'); ?>
 	<main class="mt-0">
-		<div class="pb-5 pt-5">
+		<div class="dtg-header pb-5 pt-5">
 			<div class="container">
 				<div class="row mb-5">
 					<div class="col s12">
 						<h3 class="card-title center">Digital Textildirektdruck Service</h3>
-						<div class="center"><b>Wir bieten wir dir mehr als nur eine Dienstleistung!</b></div>
+						<div class="center">Wir bieten wir dir mehr als nur eine Dienstleistung!</div>
 					</div>
 				</div>
 
@@ -21,7 +21,7 @@
 					</div>
 				</div>
 
-				<div class="row mb-0">
+				<div class="row mb-0 mt-4">
 					<div class="col s12 center">
 						<a href="#referenzen" class="btn color-2"><i class="material-icons left" aria-hidden="true">expand_more</i>Zu unseren Referenzen</a>
 					</div>
@@ -109,33 +109,33 @@
 							<table>
 								<tbody>
 									<tr>
-										<th class="right">Kunde:</th>
+										<th class="right-align">Kunde:</th>
 										<td>Stadt. Holzkamp-Gesamtschule Witten</td>
 									</tr>
 									<tr>
-										<th class="right">Marke:</th>
+										<th class="right-align">Marke:</th>
 										<td>Fruit of the Loom</td>
 									</tr>
 									<tr>
-										<th class="right">Farbe:</th>
+										<th class="right-align">Farbe:</th>
 										<td>Blau</td>
 									</tr>
 									<tr>
-										<th class="right">Farbtinte:</th>
+										<th class="right-align">Farbtinte:</th>
 										<td>
 											0,38&nbsp;mL (Vorne)<br/>
 											0,73&nbsp;mL (Hinten)
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße&nbsp;Tinte:</th>
+										<th class="right-align">Weiße&nbsp;Tinte:</th>
 										<td>
 											2,41&nbsp;mL (Vorne)<br/>
 											3,97&nbsp;mL (Hinten)
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Preis:</th>
+										<th class="right-align">Preis:</th>
 										<td>16,10&nbsp;€</td>
 									</tr>
 								</tbody>
@@ -154,31 +154,31 @@
 							<table>
 								<tbody>
 									<tr>
-										<th class="right">Kunde:</th>
+										<th class="right-align">Kunde:</th>
 										<td>Pony Events Federation e.V.</td>
 									</tr>
 									<tr>
-										<th class="right">Marke:</th>
+										<th class="right-align">Marke:</th>
 										<td>B&C Collection</td>
 									</tr>
 									<tr>
-										<th class="right">Farbe:</th>
+										<th class="right-align">Farbe:</th>
 										<td>Schwarz</td>
 									</tr>
 									<tr>
-										<th class="right">Farbtinte:</th>
+										<th class="right-align">Farbtinte:</th>
 										<td>
-											0,00&nbsp;mL
+											0,59&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße&nbsp;Tinte:</th>
+										<th class="right-align">Weiße&nbsp;Tinte:</th>
 										<td>
-											0,00&nbsp;mL
+											4,25&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Preis:</th>
+										<th class="right-align">Preis:</th>
 										<td>11,00&nbsp;€</td>
 									</tr>
 								</tbody>
@@ -197,31 +197,31 @@
 							<table>
 								<tbody>
 									<tr>
-										<th class="right">Kunde:</th>
+										<th class="right-align">Kunde:</th>
 										<td>Pony Events Federation e.V.</td>
 									</tr>
 									<tr>
-										<th class="right">Marke:</th>
+										<th class="right-align">Marke:</th>
 										<td>B&C Collection</td>
 									</tr>
 									<tr>
-										<th class="right">Farbe:</th>
+										<th class="right-align">Farbe:</th>
 										<td>Schwarz</td>
 									</tr>
 									<tr>
-										<th class="right">Farbtinte:</th>
+										<th class="right-align">Farbtinte:</th>
 										<td>
-											0,00&nbsp;mL
+											0,17&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße&nbsp;Tinte:</th>
+										<th class="right-align">Weiße&nbsp;Tinte:</th>
 										<td>
-											0,00&nbsp;mL
+											5,07&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Preis:</th>
+										<th class="right-align">Preis:</th>
 										<td>11,00&nbsp;€</td>
 									</tr>
 								</tbody>
@@ -240,31 +240,31 @@
 							<table>
 								<tbody>
 									<tr>
-										<th class="right">Kunde:</th>
+										<th class="right-align">Kunde:</th>
 										<td>Bronies Berlin / Brandenburg e.V.</td>
 									</tr>
 									<tr>
-										<th class="right">Marke:</th>
+										<th class="right-align">Marke:</th>
 										<td>Gildan</td>
 									</tr>
 									<tr>
-										<th class="right">Farbe:</th>
+										<th class="right-align">Farbe:</th>
 										<td>Grün</td>
 									</tr>
 									<tr>
-										<th class="right">Farbtinte:</th>
+										<th class="right-align">Farbtinte:</th>
 										<td>
 											0,41&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße&nbsp;Tinte:</th>
+										<th class="right-align">Weiße&nbsp;Tinte:</th>
 										<td>
 											3,06&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Preis:</th>
+										<th class="right-align">Preis:</th>
 										<td>13,17&nbsp;€</td>
 									</tr>
 								</tbody>
@@ -283,31 +283,31 @@
 							<table>
 								<tbody>
 									<tr>
-										<th class="right">Kunde:</th>
+										<th class="right-align">Kunde:</th>
 										<td>Bronies Berlin / Brandenburg e.V.</td>
 									</tr>
 									<tr>
-										<th class="right">Marke:</th>
+										<th class="right-align">Marke:</th>
 										<td>Gildan</td>
 									</tr>
 									<tr>
-										<th class="right">Farbe:</th>
+										<th class="right-align">Farbe:</th>
 										<td>Schwarz</td>
 									</tr>
 									<tr>
-										<th class="right">Farbtinte:</th>
+										<th class="right-align">Farbtinte:</th>
 										<td>
 											0,74&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Weiße&nbsp;Tinte:</th>
+										<th class="right-align">Weiße&nbsp;Tinte:</th>
 										<td>
 											2,73&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Preis:</th>
+										<th class="right-align">Preis:</th>
 										<td>13,21&nbsp;€</td>
 									</tr>
 								</tbody>
@@ -326,25 +326,25 @@
 							<table>
 								<tbody>
 									<tr>
-										<th class="right">Kunde:</th>
+										<th class="right-align">Kunde:</th>
 										<td>Bronies Bayern e.V.</td>
 									</tr>
 									<tr>
-										<th class="right">Marke:</th>
+										<th class="right-align">Marke:</th>
 										<td>Fruit of the Loom</td>
 									</tr>
 									<tr>
-										<th class="right">Farbe:</th>
+										<th class="right-align">Farbe:</th>
 										<td>Weiß</td>
 									</tr>
 									<tr>
-										<th class="right">Farbtinte:</th>
+										<th class="right-align">Farbtinte:</th>
 										<td>
 											0,51&nbsp;mL
 										</td>
 									</tr>
 									<tr>
-										<th class="right">Preis:</th>
+										<th class="right-align">Preis:</th>
 										<td>11,82&nbsp;€</td>
 									</tr>
 								</tbody>
