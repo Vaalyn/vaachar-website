@@ -1,9 +1,12 @@
-# Slim3-Skeleton
-A simple Skeleton for Slim Framework 3 with PHP-View as templating engine, eloquent as ORM, Phinx for migrations and a simple log-in system.
+# VaaChar Website
 
-# Installation
-Clone with GIT:
-```git clone https://github.com/Vaalyn/Slim3-Skeleton.git```
+## Clone with GIT:
+```git clone https://github.com/Vaalyn/vaachar-website.git```
 
-Install dependencies:
-```composer install```
+## Create vaachar-website.env file:
+
+Copy the `vaachar-website.example.env`, rename it to `vaachar-website.env` and modify it.
+
+## Create docker-compose.yml file:
+
+Copy the `docker-compose.yml`, rename it to `docker-compose.yml`.
