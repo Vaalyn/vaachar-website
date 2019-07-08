@@ -31,13 +31,23 @@ return [
 			'prefix'    => '',
 			'username' 	=> ''
 		],
+		'mailer' => [
+			'authMode'    => 'plain',
+			'from'        => 'VaaChar',
+			'fromAddress' => 'info@vaachar.de',
+			'host'        => 'ssl0.ovh.net',
+			'password'    => '',
+			'port'        => 587,
+			'security'    => 'tls',
+			'username'    => ''
+		],
 		'menu' => require_once __DIR__ . '/menu.php',
 		'plugins' => [],
 		'session' => [
 			'domain'   => 'localhost',
 			'httponly' => true,
 			'lifetime' => 1200,
-			'name'     => 'SLIM3_SKELETON_SESSID',
+			'name'     => 'VAACHAR_SESSID',
 			'path'     => '/',
 			'secure'   => false
 		],
