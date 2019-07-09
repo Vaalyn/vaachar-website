@@ -39,7 +39,7 @@
 
 				<div class="row">
 					<div class="col s12 center flow-text">
-						Bestimme den Grundpreis des Textils selbst indem du dir einen Hersteller aussuchst. Wir helfen dir gerne bei der Auswahl des passenden Herstellers, aber du bestimmst wie hochwertig das Material sein soll und dadurch auch wie hoch die Kosten sind.
+						Bestimme den Grundpreis des Textils selbst indem du dir einen Hersteller aussuchst. Wir helfen dir gerne bei der Auswahl des passenden Herstellers, aber du bestimmst wie hochwertig das Material sein soll und dadurch auch wie hoch die Kosten sind. Schick uns einfach den Link zum Produkt und wir übernehmen die Bestellung.
 					</div>
 				</div>
 
