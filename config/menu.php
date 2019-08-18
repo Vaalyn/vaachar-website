@@ -32,7 +32,7 @@ return [
 			'client_portal' => [
 				'display_name' => 'Login',
 				'icon' => 'person',
-				'url' => 'https://business.vaachar.de:8000/client/login',
+				'url' => 'https://business.vaachar.de/client/login',
 				'route_name' => null,
 				'classes' => []
 			]
