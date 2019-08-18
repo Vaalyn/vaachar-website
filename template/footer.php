@@ -9,6 +9,12 @@
 							<li>
 								<a href="datenschutz" class="light-blue-text text-lighten-1">Datenschutz</a>
 							</li>
+							<li>
+								<a href="agb" class="light-blue-text text-lighten-1">AGB</a>
+							</li>
+							<li>
+								<a href="widerrufsbelehrung" class="light-blue-text text-lighten-1">Widerrufsbelehrung</a>
+							</li>
 						</ul>
 					</div>
 

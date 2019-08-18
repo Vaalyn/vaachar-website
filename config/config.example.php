@@ -31,6 +31,10 @@ return [
 			'prefix'    => '',
 			'username' 	=> ''
 		],
+		'invoice_ninja' => [
+			'api_url' => '',
+			'token' => ''
+		],
 		'mailer' => [
 			'authMode'    => 'plain',
 			'from'        => 'VaaChar',
