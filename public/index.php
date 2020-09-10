@@ -6,7 +6,6 @@ require '../vendor/autoload.php';
 
 use App\Service\ErrorHandler\ErrorHandler;
 use App\Service\Factory\Eloquent\EloquentFactory;
-use App\Service\InvoiceNinja\InvoiceNinja;
 use App\Service\Mailer\Mailer;
 use App\Service\NotFoundHandler\NotFoundHandler;
 use Slim\Flash\Messages;
@@ -40,7 +39,6 @@ $container['authorization']   = new Authorization($container);
 $container['authentication']  = new Authentication($container, $container->database);
 $container['errorHandler']    = new ErrorHandler();
 $container['flashMessages']   = new Messages();
-$container['invoiceNinja']    = new InvoiceNinja($container->config['invoice_ninja']);
 $container['mailer']          = new Mailer($container->config['mailer']);
 $container['menuBuilder']     = new MenuBuilder($container->router, $container->authentication, $container->authorization);
 $container['notFoundHandler'] = new NotFoundHandler();

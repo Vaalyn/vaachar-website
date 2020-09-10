@@ -11,8 +11,6 @@ $app->group('/api', function() {
 	$this->post('/login', Api\LoginController::class . ':loginAction')->setName('api.login');
 
 	$this->get('/ping', Api\PingController::class)->setName('api.ping');
-
-	$this->post('/produkt/kaufen', Api\ProduktController::class . ':buyNowAction')->setName('api.produkt.kaufen');
 });
 
 $app->get('/', Frontend\HomeController::class)->setName('home');
@@ -35,7 +33,5 @@ $app->get('/login', Frontend\LoginController::class . ':getLoginAction')->setNam
 $app->post('/login', Frontend\LoginController::class . ':loginAction')->setName('login.action');
 
 $app->get('/logout', Frontend\LogoutController::class)->setName('logout');
-
-$app->get('/produkte', Frontend\ProdukteController::class)->setName('produkte');
 
 $app->get('/widerrufsbelehrung', Frontend\WiderrufsbelehrungController::class)->setName('widerrufsbelehrung');

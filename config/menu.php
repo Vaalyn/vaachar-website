@@ -23,19 +23,6 @@ return [
 				'route_name' => '3d-druck',
 				'classes' => []
 			],
-			'shop' => [
-				'display_name' => 'Produkte',
-				'icon' => 'store',
-				'route_name' => 'produkte',
-				'classes' => []
-			],
-			'client_portal' => [
-				'display_name' => 'Login',
-				'icon' => 'person',
-				'url' => 'https://business.vaachar.de/client/login',
-				'route_name' => null,
-				'classes' => []
-			]
 		]
 	],
 	'navbar_system_pages' => [
